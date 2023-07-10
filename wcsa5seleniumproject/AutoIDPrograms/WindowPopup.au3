@@ -1,0 +1,7 @@
+ControlFocus("Open","","Edit1")
+Sleep(1500)
+ControlSetText("Open","","Edit1","C:\Users\DELL\Desktop\java practice.docx")
+Sleep(1500)
+ControlFocus("Open","","Button1")
+Sleep(1500)
+ControlClick("Open","","Button1")
